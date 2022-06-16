@@ -1,0 +1,14 @@
+train/
+train_valid/
+
+# json files are too large, ignore them
+eccv_train.json
+eccv_val.json
+
+train_all.json
+*.zip
+*.DS_Store
+*.ipynb_checkpoints/
+*.vscode
+__pycache__/
+flagged/
